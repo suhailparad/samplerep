@@ -14,7 +14,7 @@
                 padding: 0;
                 width: 100%;
                 display: table;
-                font-weight: 100;
+                font-weight: 98;
                 font-family: 'Lato';
             }
             .container {
@@ -34,7 +34,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 1000</div>
+                <div class="title">Welcome to Laravel</div>
             </div>
         </div>
     </body>
