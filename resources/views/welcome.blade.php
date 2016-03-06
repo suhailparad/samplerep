@@ -27,7 +27,7 @@
                 display: inline-block;
             }
             .title {
-                font-size: 97px;
+                font-size: 96px;
             }
         </style>
     </head>
