@@ -34,7 +34,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Welcome to Laravel</div>
+                <div class="title">Welcome to Laravel with Git Hub</div>
             </div>
         </div>
     </body>
